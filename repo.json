@@ -1,0 +1,13 @@
+{
+  "name": "Liber Antiquia - The Ancient Eldar",
+  "description": "Unofficial Aeldari expansion for Horus Heresy: Age of Darkness (Liber Panoptica)",
+  "battleScribeVersion": "2.03",
+  "repositories": [
+    {
+      "name": "[Antiquia] Asuryani",
+      "repositoryUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/liber-antiquia/main/Liber%20Antiquia%20-%20Asuryani.cat",
+      "githubUrl": "https://github.com/YOUR_USERNAME/liber-antiquia",
+      "feedUrl": "https://github.com/YOUR_USERNAME/liber-antiquia/releases/latest/download/Liber-Antiquia.latest.bsi"
+    }
+  ]
+}
