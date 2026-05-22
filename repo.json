@@ -5,9 +5,9 @@
   "repositories": [
     {
       "name": "[Antiquia] Asuryani",
-      "repositoryUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/liber-antiquia/main/Liber%20Antiquia%20-%20Asuryani.cat",
-      "githubUrl": "https://github.com/YOUR_USERNAME/liber-antiquia",
-      "feedUrl": "https://github.com/YOUR_USERNAME/liber-antiquia/releases/latest/download/Liber-Antiquia.latest.bsi"
+      "repositoryUrl": "https://raw.githubusercontent.com/benjaminwoodier/liberantiquia/main/Liber%20Antiquia%20-%20Asuryani.cat",
+      "githubUrl": "https://github.com/benjaminwoodier/liberantiquia",
+      "feedUrl": "https://github.com/benjaminwoodier/liberantiquia/releases/latest/download/Liber-Antiquia.latest.bsi"
     }
   ]
 }
