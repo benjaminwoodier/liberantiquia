@@ -14,7 +14,7 @@ An unofficial New Recruit / BattleScribe data repository for the **Asuryani** an
 Add the following URL as a data repository in NewRecruit or BattleScribe:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/liber-antiquia/main/repo.json
+https://raw.githubusercontent.com/benjaminwoodier/liberantiquia/main/repo.json
 ```
 
 Go to **Settings → Data Repositories → Add Repository** and paste the URL above.
