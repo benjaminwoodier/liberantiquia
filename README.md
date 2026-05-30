@@ -1,6 +1,6 @@
 # Liber Antiquia: The Ancient Eldar
 
-An unofficial New Recruit / BattleScribe data repository for the **Asuryani** and **Saedath** factions from the **Liber Antiquia** supplement — an unofficial expansion for **Warhammer: The Horus Heresy Age of Darkness**, produced by the Liber Panoptica Development Team.
+An unofficial New Recruit / BattleScribe data repository for the **Asuryani** and **Saedath** factions from the **Liber Antiquia** supplement - an unofficial expansion for **Warhammer: The Horus Heresy Age of Darkness**, based on rules produced by the Liber Panoptica Development Team.
 
 ---
 
