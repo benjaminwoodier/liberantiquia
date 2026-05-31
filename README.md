@@ -7,32 +7,23 @@ An unofficial New Recruit / BattleScribe data repository for the **Asuryani** an
 ## Requirements
 
 - The **BSData Horus Heresy 2nd Edition** repository must already be loaded in your app of choice, as this catalogue depends on the `2022 - Horus Heresy.gst` system file.
-- [NewRecruit](https://www.newrecruit.eu/) (recommended) or BattleScribe.
+- [NewRecruit](https://www.newrecruit.eu/) (recommended) or BattleScribe. NewRecruit is recommended.
 
 ## How to Install
 
 Add the following URL as a data repository in NewRecruit or BattleScribe:
 
 ```
-https://raw.githubusercontent.com/benjaminwoodier/liberantiquia/main/repo.json
+benjaminwoodier/liberantiquia
 ```
 
-Go to **Settings → Data Repositories → Add Repository** and paste the URL above.
+Go to **Add More Games → Add from Github** and paste the URL above.
 
 ---
 
 ## Current Status
 
-This is a **proof-of-concept** release covering:
-
-- ✅ Farseer (HQ)
-- ✅ Guardian Defenders (Troops, with Defender Platform)
-- ✅ Core weapon profiles (Shuriken Catapult, Avenger Catapult, Witch Weapon, Singing Spear, Scatter Laser, Bright Lance, Aeldari Missile Launcher)
-- ✅ Core wargear (Rune Armour, Mesh Armour, Plasma Grenades, Forceshield, Aspect Armour)
-- ✅ Core special rules (Fleet, Independent Character, Adamantium Will, Fearless, Stubborn, Infiltrate, Scout, Move Through Cover, Shrouded, Feel No Pain, Relentless, Path of the Farseer, Battle Focus, Legacies of the Fall)
-- ✅ Crusade Force Organisation Chart
-
-Units to be added in future releases are tracked as Issues.
+This is a full release, with both Asuryani and Saedath rules, as well as World Rune functionality. Currently certain changes to unit entries based on World Runes are not available in the repo (i.e. removing the Support Squad rule) - please consult the text rules for full information.
 
 ---
 
