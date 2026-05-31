@@ -23,7 +23,7 @@ Go to **Add More Games → Add from Github** and paste the URL above.
 
 ## Current Status
 
-This is a full release, with both Asuryani and Saedath rules, as well as World Rune functionality. Currently certain changes to unit entries based on World Runes are not available in the repo (i.e. removing the Support Squad rule) - please consult the text rules for full information.
+This is a full release, with both Asuryani and Saedath rules. World Runes are currently not functional - please consult the Liber Antiquia rules for full information and to ensure there are no rules errors.
 
 ---
 
